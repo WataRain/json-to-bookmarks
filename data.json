@@ -1,0 +1,22 @@
+{
+    "Social": {
+        "Discord": "https://discord.com/app/",
+        "Messenger": "https://facebook.com/messages/t/",
+        "Mail": "https://mail.google.com/"
+    },
+    "Tools": {
+        "Docs": "https://docs.google.com/",
+        "Slides": "https://slides.google.com/",
+        "Sheets": "https://sheets.google.com/",
+        "Canva": "https://canva.com/"
+
+    },
+    "Storage": {
+        "Drive": "https://drive.google.com/",
+        "Docstransfer": "https://docstransfer.com/"
+    },
+    "Entertainment": {
+        "YouTube": "https://youtube.com/",
+        "Reddit": "https://www.reddit.com/"
+    }
+}
